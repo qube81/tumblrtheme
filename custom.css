@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Electrolize);
+h1 { font-family: Electrolize; }
+
+nav ul li {
+    text-decoration: underline;
+}
+
+nav ul li a {
+    margin:5px;
+}
